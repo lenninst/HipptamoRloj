@@ -1,0 +1,10 @@
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\bin\Debug\HipptamoRloj.exe.config
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\bin\Debug\HipptamoRloj.exe
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\bin\Debug\HipptamoRloj.pdb
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\obj\Debug\HipptamoRloj.csproj.AssemblyReference.cache
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\obj\Debug\HipptamoRloj.Form1.resources
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\obj\Debug\HipptamoRloj.Properties.Resources.resources
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\obj\Debug\HipptamoRloj.csproj.GenerateResource.cache
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\obj\Debug\HipptamoRloj.csproj.CoreCompileInputs.cache
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\obj\Debug\HipptamoRloj.exe
+D:\Developer\dotnet\HipopotamoHr\HipptamoRloj\obj\Debug\HipptamoRloj.pdb
